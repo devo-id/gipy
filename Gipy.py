@@ -3,9 +3,9 @@ import time
 import subprocess
 from selenium import webdriver
 from selenium.webdriver.common import keys
-#_____________________________________PREQUEST_________________________________#
-PATH = "C:\Program Files (x86)\chromedriver.exe"
-project_folder = "C:\\Users\Devesh\Documents\Projects"  
+#_____________________________________Changes Needed_________________________________#
+PATH = "driver path"
+project_folder = "project folder path"  
 #______________________________________________________________________________#
 username = sys.argv[1]
 password = sys.argv[2]
