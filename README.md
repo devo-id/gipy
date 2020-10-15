@@ -13,6 +13,7 @@ If you are not using GitHub desktop software then it might take time to do these
 10. CMD: git commit -m "first commit"
 11. CMD: git push -u origin master
 12. CMD:  code .
+
 Gipy can do these all steps in a single command.
 
 ## Requirements
