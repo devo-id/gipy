@@ -16,6 +16,11 @@ If you are not using GitHub desktop software then it might take time to do these
 
 Gipy can do these all steps in a single command.
 
+## Install
+```cmd
+git clone https://github.com/devo-id/gipy.git
+```
+
 ## Prerequisite
 webdriver,
 selenium,
