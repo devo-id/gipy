@@ -21,13 +21,13 @@ Gipy can do these all steps in a single command.
 git clone https://github.com/devo-id/gipy.git
 ```
 
-## Prerequisite
+## Requirement
 webdriver,
 selenium,
 python environment
 
-## Changes To Do before Using 
-Update the path for project folder and webdriver.
+## Prerequisite
+Update the path for project folder and webdriver in gipy.py.
 
 ## Usage
 Run it in CMD as
