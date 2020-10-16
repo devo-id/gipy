@@ -16,7 +16,7 @@ If you are not using GitHub desktop software then it might take time to do these
 
 Gipy can do these all steps in a single command.
 
-## Requirements
+## Prerequisite
 webdriver,
 selenium,
 python environment
