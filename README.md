@@ -1,5 +1,5 @@
 # Gipy
-Gipy is a python and batch script based program for Windows, which helps the programmers to automates the process of connecting local projects files to the GitHub repository in the beginning using CMD.
+Gipy is a python and batch script-based program for Windows, which helps the programmers to automates the process of connecting local project files to the GitHub repository in the beginning using CMD.
 If you are not using GitHub desktop software then it might take time to do these steps-
 1. Navigating to the project folder
 2. Create a folder as the project name
